@@ -1,0 +1,436 @@
+lemmatized_text
+Reduce cyclomatic complexity
+Renamed SingleTaskRenderingExecutor DefaultRenderingExecutor simplify code GEOT reduce couple JMapPane MapLayerTable GEOT work towards map pane multiple backing image GEOT start new JLayeredMapPane usable yet Simplified RenderingTask class RenderingExecutor interface Removed renderer setter JMapFrame assume StreamingRenderer instead Removed unnecessary event constant relate method listener unit test
+Added ability set message every reward message send specific reward nonzero addition fix follow bug ItemFactory implement hashCode equal cause message system properly merge similar action
+Break transaction updatePluginConfigurationDefinition small piece Another pas give oracle test failure CI env Fix issue PropertyDefinitionSimpleremoveEnumeratedValues unexpected problem brought guess Tx reworking must careful replace hibernate proxy deal orphanRemoval remove unnecessary REQUIRESNEW could lead lock issue remove dead code start shorten xxxInNewTransaction xxxInNewTx purely selfish reason
+add functionality know type xml type decorator cbabbde
+Eating creature provide stat bonus Body size calculate base part size Entities widthheight intersection calculation Screen helper random point within restrict region screen
+Replace coordinate index throughout application also fix bug physicsgridGridgetGaussContraintSquared coor coor reset loop increasingdecreasing individual direction coordinate
+StewartSingularValueDecomposition monolithic code ugly switch statement multiple method
+Adding support nonsticky session mergedrebased nonstickysessions branch commit b nonsticky session session load memcached request application store local session map request save back memcached follow optimization skip update sticky session end request primary memcached session store additional secondary memcached node prevent single point failure node next configured list memcached node issue SPOF primary memcached node available session load backupsecondary node relocate new node session relocation sticky session memcached failover issue SPOF allow skip update include expensive serialization session store double expiration time memcached actual last access time maxInactiveInterval store really keyvalue use determine session still valid validity info also store backup secondary memcached node issue session lock mechanism implement session load requested application lock end requeststorage memcached auto request access session readonly auto detect request lock skip request modify session lock aquired key requestURIqueryString uriPattern regular expression compare requestURIqueryString session lock match none lock default issue test add nonsticky functionality others extend check sticky nonsticky mode appropriate push version SNAPSHOT additional configuration attribute sticky truefalse default true lockingMode one none auto uriPatternregexp
+ISIS remove dead code renames method
+Fixed miss validation error message value conversion fail Eclipse Bug
+implement functionality sendonallinterfaces sendinterfaces
+Fixing bug Eagerslice zero one length iterables supply add test around Eagerrest use slice Eagerrest implementation
+Minor fix Removed dead code fix variable namesn Also use normalize method WeightedIntDocVector building weight int doc vector change place code normalization
+Fix reload functionality Reload break miss cache invalidation reload flush function repository cache library also global function cache local code library reload though want
+Readability change populateFedoraRoles populateFedoraAttributes update commentsjavadocs since method effect populate FEDORAAUXSUBJECTATTRIBUTES fedoraRole additional subject attribute
+ICE Factored duplicate code updateBundle private method Clarified boolean test
+Started basic proctor functionality New AssessmentProctoringService currently terminate single session delivery minor preparatory tweak exist reporting MVC
+Moved MD utils WalkerTest BaseTest use PipelineTests Moved VariantEval validation FCPTest PipelineTest Cleaned duplicate code write temp file test Moved FCPTest playground namespace match move FCPq Added basic HelloWorldPipelineTest HelloWorld QScript Moved duplicate error handle JobRunners FunctionEdge
+Added abstration condition expression lanugage cel Added abstraction function expression language fel Removed tight couple bean framework valang Changed valang annotation element expression Removed bean expression resolver support replace fel
+JS Fix Bible book name lookup error Lookup prioritize NT OT NC noncanonical see Bible book current versification Note Bible NT OT intro class NC mean deuterocanonical book find versification large change move name lookup Versification BibleNames per locale use Chris Bs locale provider KeyUtil go back require vn Also improve performance require Keys provide Verse VerseRange Passage throw ClassCastException otherwise misc cleanup
+QuickCloud Remove reference unused code QuickCloud remove dead code ConsoleProxyManager
+Add ip extractor multiple header chain Add ip extractor multiple header chain Add IpHeaderChainExtractor search ip header Add test Fix javadocs IpHeaderChainExtractor Update javadocs IpHeaderChainExtractor Fix findbug error getAlternateIpHeaders may expose internal representation return IpHeaderChainExtractoralternateIpHeaders Update doc fix typo IpHeaderChainExtractor update doc ip extrator example IpHeaderChainExtractor fix typo IpHeaderChainExtractorsetAlternateIpHeaders Merge IpHeaderChainExtractor IpExtractor add proxyIp Add functionality IpHeaderChainExtractor IpExtractor Deprecate getset alternateAlternateIpHeader favor getset AlternateIpHeaders Update getset alternateAlternateIpHeader work new internal implementation backward compatibility Add proxyIp verify remotehost proxyIp case header search default check request originate right proxy server Fix proxyIp check PMD warning Use CommonHelperassertNotNull consistency check Update doc javadocs IpExtractor Fix IpExtractor test expect exception
+recognize switch statement exhaustive label enum
+removal og duplicate code
+core Remove duplicate code HotPlugDiskToVmCommandTest
+Feature first part task Nonbreaking change poms unit test integration test Fix coveralls Test framework integration junit junit testng add pipeline TODO fluentleniumcore repackage breaking change
+ui Show rowscolumns action MtcAction ShowRowsByName SortSelectedColumnsAction implement Show correction option work OpenAnalysisAction implement TableView bug fix bfaebddf
+feat reset serverprepared statement deallocatediscard ability autorollback sqlexception execute query Bug report DEALLOCATE DISCARD command status observe driver would invalidate cached statement subsequent execution would go parse describe etc feature enable deafault fails cache plan must change result type reparse might solve problem However pending transaction error would kill transaction purpose driver set savepoint statement Automatic savepoint configure via autosave property take follow value conservative default rollback savepoint case prepared statement exist cached plan must change result type driver would reexecute statement ant would pass never never set automatic safepoint Note mode statement might still fail cached plan must change result type autoCommitFALSE mode always always rollback statement execution state case failure mode prevents current transaction abort error similar psqls ONERRORROLLBACK overhead additional savepoint like see fixes close fix close
+revamp inheritance lookup
+Supplier interface BuiltLazy class
+added FluentPipeline rename AggregatorPipe AggregatePipe abstract CollectionFilterPipe GraphElementPipe Really set stage completely migrate functionality Gremlin
+Fix pb Image interpretation header footer work docx see
+MASSEMBLY Adding parameter ignoreMissingDescriptor default value false allow reuse single assembly configuration throughout multimodule build without fail submodules contain assembly descriptor reference configurationinstead simply run case Patch submit Sejal Patel NOTE add two unit test DefaultAssemblyReaderTest test new functionality fbbffaedef
+BEAM data model change new Mask VectorData class
+Reorganisation controller cod BookingRoomController us BookRoomCommand AddBookingRoomViewParamsController use static method BookRoomCommand Fixed little bug JSP Working fine Tomcat afcaaadaeaaccd
+BrowserOpenWindowCommand overhauledno longer use feature String describe feature support open window various extent size
+Reduce size calculation job result message
+Implemented Gael Marzious exclude rule feature bafdacfced
+fix bug report Kieran Kelleher setText String aValue check null case HTML content try gzip null value null pointer exception ERXCompressionUtilitiesgzipStringAsByteArray
+Added javadoc fix prefered authentication mechanism feature fbbffaedef
+Major new functionality Featues Added http file downloader integrate TVRageProvider Implemented check update preference option Code change FINALLY make preference static yay Renaming many UIStarter variable conform nameType Moved string handle StringUtils Updated test
+Resolve issue sync tool extra password prompt release issue list actually two problem fix first problem default work directory set early enough execution userspecified work directory sync configuration file place work directory second problem password include command line value previous run try parse previous config determine restart could occur password prompt display edcdafcbebfebcb
+cleanup add functionality select collection associate field rjrjr
+initialize artifact feature independent whether code file artifact available otherwise FSTGenMerger may fail error invalid number argument enough feature mergecompose
+WAL max size limit restore Free space detection bug fix cherry pick commit befd
+Reverted change CommonProxyjava Attempting use new SideServer SideClient check separate code fix bug
+djazayeri Rename MPI interface change inheritance
+move duplicate code
+Tweaks test BasePerson class common inheritance test class tweak complexsimple type detection
+restructure code package structure high cohesion implement proxy logic cglib fix bug introspector generic interface java extend added test ReflectUtil ObjectFactory add AbstractBeanTest pull similarity
+Move enable job functionality Jobs class also run code everything initialize
+Major performance update
+hate Java hate everything Java ecosystem move project Maven amount difficutly Honestly pomxml file magic understand part like thing java idea large cryptic XML document little human readable meaning mean Makefiles consider arcaic however find dozen simple introduction construct Makefile depend magic build project Maven official Documentation line document coorliation actually happen build file Take example fact know whole target folder lot stuff place pomxml say create target folder say run javac close come either set source tag know Bukkit Furthermore comand compile project jar mention jar file pomxml issue mvn install command clearly make sense mvn build anyone mvn package nope mvn install like java head fetish complexity
+Fixes Seam authentication filter Seam sample application base Google IDP interoperability test cbddccceaebbedebd
+duplicate code Unify schedule merge job
+flexible EC user data class
+Improvements Launcherjava Use regular static method log initialization instead static initializer block Also break UI launcher separate static method intend change Launcher could potentially launch different functionality depend commandline argument first step allow Prepare main method able dispatch different functionality depend commandline argument Add logger even currently unused
+Checked dead code recommendation
+Updated change stream chooser typeahead fix bug global variable usage build could overwrite value add error check log get server config
+Restoring logic without size field cache
+repackaged integration test nonspecific web package simplicity remove AbstractTest since use
+extracted createArguments remove duplicate code
+Undo support finalize history undo panel global undo redo operation CtrlZ CtrlY add undo support almost ROI action GUI modify mergeable property anymore non significant undoable edit easy manage Loader improve image preview display multiple importer available LoaderloadThumnail search compatible importer Loci importer well retrieve channel color metadata add ugly PluginNoEDTConstructor interface avoid plugin creation swing graphic thread need retro compatibility careful Plugin abstract class use interface disable user link action others feature ready yet IcyBufferedImageUtilconvertToType use safe type conversion always prefer even bite slow added ImageUtilisGrayimage method know specify RGB image contain gray pixel minor fix internet monitor pre load importer class avoid non responsive UI second first open operation add MetaDataUtilgetChannelColor method ROIDShape add addNewPoint removePoint method
+another pas data class cleanup client code
+Working driver Plinks MAP PED format Added helper function count number trail newline character end file correctly get number element Restructured package Introduced class Biallele data type Applied inheritance data type avoid duplicate variable
+feature FieldNameConstants work like Builder Make whatever bit hand lombok fill whatever miss
+CLOUDSTACK Performance improvement cache NuageVsp
+Code review tweak Event inheritancebased trigger protected private Renamed repackaged event relate class Comments
+MRM add rest method delete artifact reuse service webapp action avoid much duplicate code
+Fixed bug JDK parser longer choke annotated parameter annotate local variable bafdacfced
+Bug legacy Load model command handler Bug Compatibility Fill main menu menu contribution Bug Compatibility Fill main menu action set
+MEDIUM Fixed old code generator still need Backward compatibility shall maintain
+Added ContextParameterObserver event functionality example
+Thirs commit Roller Theme Encapsulation work
+create ThresholdGroup abstraction make configuration clear review mhuot
+add new test text performance add supported feature webpage Issue number Obtained Submitted Reviewed
+Fix bug code refactoring data access layer Fetch cluster nodegroup node info within single hql query database improve performance Optimized getInstanceNum method retrieve instance single hql query instead count node Add new static toRead method convert entity fetch data db anymore Deprecate old toXXXRead method
+EXOJCR Enable plugability management layer first pas decouple need work
+New feature dynamic field indexer avoids need specify mapping field individually svnsshdevouterthoughtorgouterthoughtlilyprojecttrunk bdfebdeadc
+system disk placement feature discard design image datastore add cmd Replace dsNamesData dsNamesSystem StorageRead control system disk placement
+Improved Keyboard stability performance
+Extracted administrative method service separate ServiceAdministrator component use composition rather inheritance allow service reuse service management functionality without extend base class
+XMPPChatClient generality simplicity
+separate benchmark correctness test part junit test suite integrate build system
+HBX Move functionality JDBCMetadataConfiguration JdbcMetadataSources Inline JDBCMetaDataConfigurationgetMetadata JDBCMetaDataConfigurationreadFromJDBC
+Fixed performance bottleneck add id RelIdArray
+Bug Support encapsulation SWT layout mechanism
+highlight subtree rotation thanks encapsulation keep thread TODO fix layout optional feature rotation
+Updated movement function support new snake representation Made tick readable move functionality method
+NOJIRA add search username functionality ComplexStub dao fdbabfebbeeb
+apply patch Marc Portier improve extensibility DefaultApplicaitonWindowLifecycleAdvisor
+ItErSCUVistaRecursosTempoPorProxectoItErS Creating package resourceload data class
+changed common feature multi subscription Connection type MapServerConnection add common feature multi subscription equal Data add common feature multi subscription new SubscribtionData class
+Implemented basic path edit plus several related fix Added option initial value NumberFields constructor add constructor default modify several class use Renamed PathCanvas PathEditor add edit functionality Added enum property show grid select point Added mouse handle add select remove insert Shift click exist point move point Ctrl precise position use Alt reserve window manager Fixed array index bound PathArrow Made possible VisualPanel lock bound used PathEditor drag point prevent crazy scrolling Added ability remove layer VisualPanel use setlayernull Converted RoomFrameArrayListModel top level class Made list selection xyspeed field PathFrame use property link instead manually update new button link editor grid property also add list also use ArrayListModel class automatic list update Fixed bug BinVisualremove method would case fail update bound BinVisual method return visuals intersect give rectangle method use one two new iterators BinPlane Fixed bug BinPlaneCandidatesetDepth would remove candidate bin instead reinserting ffbcebecd
+ACT Added inheritance TaskPage
+New access system replace old ownership system Access grant build destroy fully interact within chunk specific player faction Access also optionally deny normal member host faction info display go feature yet come test possible bug also need Related info New FPerm ACCESS grant faction leader officer default FPerm allow bypass access restriction throughout faction territory along factionsaccess Bukkit permission allow change access setting chunk own faction New permission factionsaccess Ability grant territory access faction proper ACCESS FPerm default leader officer Added factionskithalfplayer permission kit factionsaccessany Ability grant territory access faction server Added factionskitmod permission kit factionsaccessview Ability view territory access info faction Added factionskithalfplayer permission kit New command f access viewpfplayerfactionview nameyou view change access information chunk view nothing specify simply display info p player specify player grant access remove list already granted access f faction specify do specify faction name default faction specify faction specify toggle restrict access chunk normal faction member deny access unless access list Examples f access view access list territory f access SomePlayer grant access player SomePlayer current chunk remove access list already f access toggle restrict access current chunk since faction name specify us faction assume faction territory
+tighten implementation abstraction graph configuration
+disable multi classloader support since break thing much need time introducing feature cdedabeedbca
+Extended Binding well support tool Fixed bug ignore exception member injection Added TOOL stage dfabbbdaecade
+Supported bound data column add backward compatibility
+improve typename inference Mock thrown work variable declaration also variable assignment mock framework improvement IMockInvocation reveals mock type IMockInvocation accessible result generator unofficial feature improve toString output mock object
+Added leave logo DialogHeaderPanel Solved repaint problem IntogenImportDialog Fixed bug rewrite file PersistenceReferenceXmlAdapter bfaebddf
+Added additional model abstraction allow progress button task exchange runtime
+work test coverage minor tweak remove dead code fix minor bug add test
+Performance optimization getClientId replace getClientIdFacesCoontext Joiner replace FastJoiner Fix Removed redundant static modifier RendererBaseconcatClasses RendererBaseconcatStyles
+Reduced couple extract interface StateFlowGraph
+SONARJS FunctionComplexity ignore AMD pattern IIFE
+JBIDE rename Open Management Console Web Management Console move duplicate code ServerLogActionProvider OpenManagementConsole CommonActionProviderUtils Made sure Web Management Console enable server start
+KARAF First part Refactoring trunk remove duplicate code mbeans Bugfix delay update yet include
+ISSUE Create test CommandLine commit also fix parse issue improve hash argument class specify either file name java name determine automatically
+Code cleanup Score function work double avoid wrap longs long distance Minimum distance care high Removed link Geo LuceneGeo path Removed dead code comment
+Add support range day implementation feature request introduce new parameter includeCommitsDuringTheLastDays specify number day log retrieve
+Feature Support multiple version ClientTools conjunction multiple target platform support user may also several version Client Tools package goal allow user arbitrarily specify target client tool continue work single ECL code base Note version diverge extent ECL could never compatible recommended use Eclipse Workspace feature separate IOW user choice configure environment appropriately Gordon Smith gordonsmithlexisnexiscom
+Improvements check inout functionality Active visit list update automatically Fixed potential bug stop visit
+Create node functionality complete
+Initial support featureshierachy featuresgenes ES implementation Modified regionsinorganism return feature type svnsshsvninternalsangeracukrepossvnpathsoftpsutrunkgenlibjavacrawl eeaccacebaaf
+introduce Graph class improve OOness model class also improve testability bit
+Refactored duplicate code separate method
+Code review pull functionality AbstractMarshallingSession Reduces several cutnpasted code chunk
+Refactoring remove duplicate code
+Issue Initial implementation batchpush functionality
+WICKET Improve PageInstanceMappergetCompatibilityScore return high value request start wicketpage
+Implementing Review feature RFE bafdacfced
+Added target near neighbor finder tool Reduced default timeout longrunning test Added jaccardIndex overload two set element Fixed javadoc Made class serializable Added support maximum path length Reworked use new SimpleDependencyPath class Revised error message clarity Updated use new SimpleDependencyPath feature Updated use new SimpleDependencyPath feature Major rewrite clarity Fixed toString Added static method test category particular POS tag Implemented miss method Added import sure Added logging Added support shuffle edge graph use fix Random reproducability Multithreaded edge similarity comparison Probably bug fix Updated use IntPair instead PairInteger Updated use IntSet Major overhaul bring performance line earlier primitive collection enhancement Probably need clean still Updates use new primitive collection Updates use new primitive collection Added support cluster fix number cluster Added limited support write GEXF format Added limit support write Pajek format Made default output verbose Remove extra temporary file hang around unneeded Added support get String back document Added new class test association two term already partially support BigramExtractor class support limit number item associate enables well scale iterative association test class need work Added iterator document WaCkypedia Fixed HTML bug javadoc Added new tool run NearestNeighborFinder command line Fixed javadoc Added support change log level logger namespace Added new tool speeding repeat nearestneighbor computation partition SemanticSpace cluster use Kmeans search subset Added support read write stream byte array Updated IntSet Added Pair implementation Fixed iterator remove bug Added extensive realworld unit test Added unit test detail match example Ahn et al paper Added test
+Additions zip threadsafe locale scheduler bugfixes performance improvement
+travis Added Riak service test purpose riak Added test unit riak Set eventual consistency default READMEmd riakproperties file strong consistency main model adopt db check info riak Fixed getFields function transform createResultHashMap function create HashMap give result appropriately riak Removed scan transaction support strong consistency model search allow model neither suitable search mean use achieve proper scan transaction riak Done minor fix code comment
+Adding WorkQueue thread pool load canonicizing eventifying document minor bug fix load document bcaeeebebeadcffc
+Bug RelengMaven Create build base tycho Add machinery build test feature constituent bundle Tests enable default execute test pass except require presence run host service example test bundle orgeclipseecftestsremoteservicegenericrosgi minor tweak make make configure Tycho simpler like make abstract test actually abstract remove completely empty test class nothing make sure valid test class name end Test detect Tycho Icaefeefecbcfdeccfd Mat Booth matboothredhatcom
+Integrating optional component optional spring package Also integrate beta feature shut dynamo startup patch fails
+update mostly complete pending minor adjustment come process implementing feature also reorganize space manager code clearly define widget easily separate separate easily manage file though breakup yet happen yet also take opportunity jettison technique use hashmark making page bookmarkable favor standard approach use html history api One motivation make use query parameter specify fine grain state ui detail pane open Another nice feature back forward button behave normally One note may issue storage report apis getLatestReport method late report load default seem work order see pie chart must click one data point edcdafcbebfebcb
+Bug metadata Consider interfaces Metadata class
+Rename MulticastMain PerformanceMain PerfTest PerfTestMulti
+minor abstraction SPARQLParserBase make easy extend subquery parsing
+Starts decouple old span type untangles ServerRequestInterceptor
+NGRINDER Develop performance test module test list edit function several fix add script resource view add various test limitation provide single point test termination
+Added new SimpleJqtiFacade tidy example SimpleJqtiFacade intend simple facade API main read write run functionality JQTI cater basic use case also help people see join low level bit clearly Still need bit work update exist example use appropriate
+DURACLOUD Added server configuration mode standardadvanced bulk service Advanced allow previous functionality choose number type server instance Standard allow choice Optimize Cost Optimize Speed edcdafcbebfebcb
+DelegatingPreparedStatement extend DelegatingStatement DelegatingCallableStatement extend DelegatingPreparedStatement refactoring remove duplicate code general cleanup getDelegate method change signature return always Statement
+Refactored improve performance validator generator
+Various refactoring rename JUnit test Added surefire cobertura maven pom Removing dead code add Asserts mix
+JBIDE building inheritance parameted type resolve parameter reuse base type
+SUREFIRE runlevel RunListener method support junit Updated cover x provider feature fbbffaedef
+fix decode capture data packet timestamp xffffff start bytes unknown data include header size decode notify packet stream contain stream metadata
+use person POJO reflection performance showcase
+fix configuration abstraction test minor fix
+General cleanup metadata class Moved overhauled omexml test case Support UUID value rerun code generation omexmlr
+ClockService Starting decouple agreement lease finance
+Start build BWT abstraction present reasonable facsimile BWT user matter represent disk
+optimization export improvement bugfixes new functionality bafdacfced
+Rename subject data class brevity
+Massive update Infractions split part Base contain main crossplatform data class share implementation Bungee default implementation BungeeCord plugin Spigot API API exist allow plugins hook Infractions spigotbukkit plugins intend individual server take Infractions thus mere config file unsuited majority feature la Chitchat plugin case default spigotbukkit implementation API exist accessingmanipulating data Groundwork lay bungee plugin various command share server Many command probably move spigot API completely remove want server implementation defaultbarebones implementation spigotbukkit may exist future
+Updates event session list functionality Started add twitter feed event
+Main test class high abstraction
+HTTP Direct Digest Authenticator use apache Hex api rely parent equal hash function use CommonHelper funciton compose nonce random else statement line close enhance token parse Digest extractor instead DigestCredentials good separation functionality extractor charge extract data basic extractor DigestCredentials keep extend TokenCredentials token actually client response instead full Digest authorization header User digest validation change digestCredentialsgetTokenequalsdigestCredentialscalculateServerDigesttrue pwd
+Patch Kris Jurka improve performance getImportedKeys Use explicit join avoid use genetic query optimizer Also fix regression test fail compile change also clean key name report per change value FKNAME column Currently return value trigger argument look like unnamedttUNSPECIFIEDaa require server version user supply constraint name Every constraint name unnamed enforce unique constraint name per table unnamed foreign key different name use logic along line follow preserve unique name original scheme allow people go trouble naming constraint see triggerargsstartsWithunnamed fkname whole ugly trigger args name originally use else fkname actual fk name Modified Files jdbcorgpostgresqljdbcAbstractJdbcDatabaseMetaDatajava jdbcorgpostgresqltestjdbcoptionalConnectionPoolTestjava
+ISPN Add unit test verifies number write byte Implemented efficient marshal framework base JBoss Marshaller size payload reduce faster code path use
+upgrade code compiles work least basically still need test certain feature dependency update property pom API update
+Extract memcachedcouchbase client setup factory make dependency couchbase jar optional Fixes msm require couchbase jar even use couchbase
+MOD ArrayList replace ObjList FIX GUI dragndrop functionality fix MOD local session support JAXRX add
+Restored functionality DrugGroup relate JUnit test yet
+Reduced NPath Complexity HostAdressPicker CheckStyle issue
+Replaced us MetadataConstants new Dictionary Metadata class
+Added miss functionality GmObjectFrame fix improve file load code ResNode encapsulate re field GmFileReader Fixed bug load gm file empty sound Changed readSprites readBackgrounds use readImage method Made event loaded get added start list mean ascend order GmStreamDecoder Modified readImage allow accurate estimate inital buffer size Added initialSize argument decompress Listener add inner class MListener get rid unwanted MouseListener method make various method static expose putNode method use GmObjectFrame Event Added copy method return duplicate GmObject modify copy utilise Eventcopy Ref Added node field allow Resource access correspond node turn allow access frame EventFrame Replaced replace mode checkbox radio group Added ability duplicate event Changed layout slightly extra side component appear need GameSettingFrame Exposed convenience method add suggestion move Util GmObjectFrame Implemented miss functionality New sprite Edit sprite sprite preview update selection change still need update sprite change see TODO comment prevents loop inheritance Delete event change EventNodeTransferHandler handle duplicate ffbcebecd
+REPLACED logj logger slfjlogback UPDATED meta data extraction logic refactoring duplicate code
+Added additional flexibility fetch SCOP domain AtomCache
+convert switch statement add document comment node constructor
+Perform costly operation session backup asynchronously use configure number thread sessionBackupAsync set true fix issue
+bug fix test BPMN Examples OMG Refactored DIGenerator DIImport class Added import diagnostics report dialog Added Resource List UserTask property page Removed Start Quantity Completion Quantity Activity property page
+fix eomodeler sql gen bug select single single table inheritance entity bring parent child drop table produce multiple entry single table inheritance allow null set single table inheritance attribute inherit
+Fully implement core ModelService functionality
+Support scale relation check coupling
+CORE Add RANDOM functionality filter
+Improvements system test readability
+like fact method get big refactored logic private method increase readability
+Support differentpatch generation via Github API Github API generate different patch file serverside individual commits range commits feature useful permit one fetch content file change without need download entire repository See change add support feature CommitService Bug Icfbfdbcccac Christian Barcenas christiancbarcenascom
+fix issue dependency report wrong dependency version include simplify fbbffaedef
+CAMEL Introduce NamedNode Abstraction OptionalIdentifiedDefinition avoids reference api model
+DDF remove duplicate code
+use File creation date well accuracy
+Added BucketSizeResolver ListsBucketsFiltered bucket size feature connect bring back bucket side
+XLCLOUD user creation functionality select account vcmsgui
+CELDEV Improve ContextMenu load Performance getCMIjson add log improve timing change double increase log add log JsonBuilder fix log add log parser introduce CelementsVelocityService replace RenderingEngine use VelocityContextModifier override RENDERTIMEinitialValue refactoring ContextMenuBuilder improve log log fetcher fix ContextMenuBuilder fix compile error cache render text inside CMI log long times log obj information add Cache remove cache log field info renderText hide low time add isDebugEnabled extend log getSiblingMenuItem add SubNodesCache evaluateVelocityText add empty check switch error log VelocityService add TreeNodeScriptServicegetPrevNextMenuItem fixesrefactorings add toString method change name fetchNodesForParent rename VelocityService ContextMenuItem obj clone add Immutable annotation ContextMenuItem decouple BaseObject remove deprecation
+Add output value prefix simplify fix output mapping conflict Consider case CreateMapProcessors configuration CreateMapProcessors moment output value processor permit output value name process output value would map outputMapper fragile new output value add future CreateMapProcessor break configuration output value name PR add option set prefix output value give name prefix apply output value name make unique two map Additionally resistant future API change CreateMapProcessors
+CARE Performance test engine
+add new applicationwide validation style use toValidate property AwRequest implement validation service fix bug campaignread feature
+Modify method call meet LimitOffsetQueryData class
+Major refactoring FormModel related code Reorganized interface implementation Reorganized package structure Improved JavaDoc Introduced validation abstraction Removed dependency Rules validation Dirty track work unbuffered form model Dirty track fire property change event Revert work unbuffered form model Improved unit test coverage
+experiment support inheritance parsing inlined entity
+add metadata class
+Made annotator test extend abstract AnnotatorTestData class
+Completed test verify correct functionality distribute cache
+cleanup abstraction pull State interface implement StatefulBolt regular topology
+try make twidere work identica improve compatibility
+Changing test inherit ERXTestCase TestCase Adding stub method ERXEOAccessUtilitiesTest ERXECTest Add functionality Application ERXTestUtilities use model different adaptor
+refactored remove duplicate code
+SUREFIRE Feature complete include simple first version doc javadoc little fine tune doc remain close issue fbbffaedef
+Issue size test compatibility image refactored vcloud config logic update support late bluelock
+STS introduce interface annotation metadata class allow introduction adapter
+add Charles Lloyds AppName extensions spite overlap similar functionality already head branch
+Fixed enterleave sequence bug circular reference detection Circular Reference Detection Fixed Detected inconsistency enterleave sequence Must always LIFO bug could occur due inconsistent cleanup instance memory circular reference detect Fixes
+Fix threadsafe issue zoomToFeature multiple map share feature use zoomToFeature case empty map compute BBOX null cause threadsafety issue GeoTools
+Added detection nod sync system patch level Patching fail sync node detect Added feature force patching continue even node sync specify forcesync system property
+RESOLVED issue SEAMSOCIAL Enhance loose couple CDI bean associate service less standard object
+EST decouple asset lease
+Create functionality execute MRP regenerative Net Change Selective MRP Multi Pegging
+Created StubServer Admin interface define part WireMocks core feature Refactored admin handler make use Admin interface remove dependency internals app
+DDF Collapsing normalize refactoring unit test opportunity refactoring represent approximately reduction class size remove much duplicate code
+Fixed bug updater cause finally use stable version Fixed remove xp entitys drop Fixed loop item inventory also make looped item changeable Fixed command permission message usage replace english chat style Added draft visual effect effect
+DeallocationRules DeallocationRule functionality implement doc still behind though need work
+Add navigation link nextPage showAllHits channel Add Nutch document field item Fix moreFromSite link fbbffaedef
+SPARK SQL support record large page size UnsafeShuffleExternalSorter
+code reorganization move file around good seperate functionality
+RepositoryUtil Remove dead code find test
+move MAVENMETADATAXML constant MavenMetadata class
+Began work feature allow Common store layout information miss Dockables ddebddfefcacdf
+Traceability API
+alignmenttotext tsv tsvsinglebase output column score header add header QueueObjectPool make generic interface add Null version always create new object use performance comparison Added another layer object abstraction GobySamRecord contain one GobySamSegment Things exist entire read store object parser return GobySamRecord instead ListGobySamSegment easy understand model data well Discovered minor error GobySamSegment sequence variation generation Added test seqvar verify seqvar clip indels etc Make sure gsnapsamGobySamParser get output gsnapcompactalignmentdisplaysequencevariations enable find one issue gsnapcompactalignment seqvar generation relate soft clipping
+Extended propertyTab allow use default class simply provide list BPMN element feature get rid class orgeclipsebpmnmodeleruiproperties package
+Refactored inlined serialization filter class reduce complexity
+extract LexicalEnvironment abstraction
+Fixing incorrect use RowLocker IndexUpdater return value check know lock obtain introduce block RowLocker method retries lock obtain maximum timeout IndexUpdater skip push message lock obtain within one minute introduce RowLockerMetrics keep track frequency lock contention failure take lock row already lock use common RowLocker instance lilyserver order single corresponding metric instance Kauriwiring require introduction RowLocker interface Meanwhile noticed lockcontentions due indexupdater take lock push message really rare least run tester mbox tool ie indexupdater also client apps likely leading performance degration due operation need retry svnsshdevouterthoughtorgouterthoughtlilyprojecttrunk bdfebdeadc
+Changed inherit PackageMemberAnnotation get implementation functionality Split SignatureConverter top level class
+Performance optimization Genotype field decode GT field
+JavaCL complete rewrite CLBuffer genericity unify BridJ port CLBufferDoubleBuffer CLBufferDouble CLBufferreadwritemap longer strongly type implicitely type Buffer subclasses compatibility exist code BridJ port favour readwritemap method use typed PointerT complete rewrite UJMP Matrix implementation use cod style borrow ScalaCL
+feature sprint user view suggestion whatever status identifier user pass REST web service get publish suggestion Improve JQL query construct JPQLQueryBuilder Fix discover bug Clean dead code JS JSP
+Minor Change Transfer second cycle application period functionality
+ARQ Create auxillary OSGi test bundle Add TestClass abstraction ClassEvent use TestClass internally Add Context parameter DeploymentPackager Add Context parameter ApplicationArchiveGenerator ApplicationArchiveProcessor
+Various fix change remove operation abstraction merge Request abstraction Refactored Request ClientRequest server behaviour added LocalServerRequest subclass aware local server instance base request operate CF Java client Updated junits harness change fix several fail test case Additional bug fix include bug URL domain org space lookup
+Forbid prefix map become recursive fail Certain simple map eg n nzz N Nzz make non recursive Vim likely vi compatibility Vrapper safely support recursive macro yet detect simple case like make nonrecursive Fixes
+Refactored installer new package Fixed bug indexer use OSIS name Fixed bug English name optimize
+WFLY make coreservicepatchingshowhistory return history instead current patch state modify history format patchid type appliedat make CliUtilsForPatchingrollbackAll actually rollback ever apply patch introduce PatchingHistory abstraction possibility iterate patch history add ageouthistory handler delete history past last active cp
+Multiple code improvement squidMethodCyclomaticComplexity squidS squidS squidRedundantThrowsDeclarationCheck squidSwitchLastCaseIsDefaultCheck squidUselessParenthesesCheck
+Feature Implement exclude field feature use excludefields option attribute Example option excludefields excludefield excludefield
+Changelog update make MetaData class compile
+remove dead code move code specific element layout factory link br fix form render bug
+Trying fix incompatibility handling png Windows Mac second try
+CMTC Groovy support Add test metamodel inheritance
+Add cache folder InFileObjetPersisters Customizable test inheritance Issue issue
+Add updateSchema HBaseMetadata class
+Removing duplicate code importexport wizard JUnits correct
+RESOLVED issue RF Improve GraphValidator performance
+Added type conversion constant Optimized ReferenceCache Removed null check ContainerImplgetInstance Added ContainerhasBindingFor provide comparable functionality Made Key public dfabbbdaecade
+JCBC Adding Listeners support changeset build foundation spymemcached ticket SPY add functionality replica get view http future Iabedddddedc Michael Nitschinger michaelnitschingercouchbasecom Reviewedby Michael Nitschinger michaelnitschingercouchbasecom
+Changes Rule interface support Language value Every Rule must Language Java AST Rule base class default Language enforce change something else eg ImmutableLanguage interface XPath Rules must specify Language RuleSet XML exist Rules language set appropriately Also add minimum maximum Language Version Rules default null indicating Rule applies version Language Rules define work certain Language Version range envision used Java migration relate rule future Rules concern new Java language feature usage eg Annotations etc Next step rework RuleSet long use Language directly defer Rules bafdacfced
+reduce complexity introduce intermediary abstraction remove reference RestClient command
+add projectLocale feature ProperterFileDescriptor need read project propertyfile option regenerate model test code use new feature load method
+Increased Findbugs sensitivity fix bunch minor style issue remove dead code
+Minimize transient garbage volume optimize serialization base Kryo library AutoKryo extension Kryo allow class control registration trigger registration associate class deserialize class without noarg constructor KryoBinding binding use BDB use AutoKryo serialization XX reduction byte size UURI improve serialization via Externalizable Kryos CustomSerialization method BdbModule discard deprecate CachedBDBMap option getObjectCache extend declaredClass valueClass map value specialization declare type frontierallQueues adjust type declaration ObjectIdentityBdbCache use KryoBinding rather SerialBinding CachedBdbMapTest discard BdbFrontier BdbServerCache StatisticsTracker adjust type declaration objectCache creation BdbMultipleWorkQueues use KryoBinding rather RecyclingSerialBinding BdbWorkQueue CrawlServer CrawlHost CrawlURI add autoregister support LinkContext public kryo registration
+Foundation work parse actionbased extension point Introduction CommandAction emulate IAction interface use commandbased manager Moved uncategorized category CommandManager CommandService Renamed IHandlerState related object IState handler qualifier indicate primary use case unnecessary qualification Made state identifier integral part state work use identify piece state applies particular scenario use distinguish name description label state Refactored common functionality related property change listener Action new class AbstractAction Extracted label parse utility relate mnemonic accelerator Action LegacyActionTools Extracted common constant CommonCommandPersistence Created SelectionEnablerExpression wrap legacy SelectionEnabler framework Started work proxy pulldown delegate
+HSEARCH Add abstraction layer ES request
+Fixed several bug relate load save compare change various frame information text game setting frame save Restored rememberWindowSize functionality RoomFrame unintentionally remove r Fixed kind file name file type SoundFrame Fixed several offbyone error SpriteFramegetCropBounds would case give incorrect bound box ffbcebecd
+MassiveCore Performance improvement command argument reader
+SLE Bad performance handling Markers
+Bug Patch Form inheritance provide Nacho G Mac Dowell Since major functionality change though amount code Validator version rev change dev fbbffaedef
+refactoring long method hadleException
+CAY Vertical Inheritance Insert Record Multiple Flattened Relationships
+PRD Metadata class copyright update API change AttributeRegistry putsemantic classical gettersetter semantic
+Followup review LC code ELZI XmlTree flexible resolve paths duplicate code remove Javadoc consistent interface
+Support nest document array value mongoinputkey Make sure functionality consistent across project
+Remove dead code relate Elasticsearch utility
+Fixed lease null pointer bug Added framework item blacklist whitelists Residences Added framework ignorelist type
+Fixed external rule parse problem ref override happy Added another test RuleSetFactory really need refactored see nice moment bafdacfced
+Refactored SailGraph LinkedDataSailGraph compatibility manageable threadlocal connection definitive fix danging connection issue
+NXCM Fixed reference old plugin NXCM Bonus point GAV use text message NXCM Fixed compatibility Maven
+Added residence bank control bank flag allow deposit withdrawal residence use economy Probbably change lease autorenewals source Residence bank future Also add Residence chat channel feature use rc message say somthing residence chat simply type rc toggle Also improve live residence ability reload server run issue course minor tweak
+Refactored FieldConverter stuff remove duplicate code Created BaseFieldConverter class
+Reduce duplicate code various HTTP provider
+Added schema json importer extend exist import functionality support Schema JSON incrementally extend exist schema add Schema JSON embed script typeapplicationschemajson tag Widgets
+Summary Enhancement problem usability chart designer
+Last plan major change SPI Aside Javadoc consider SPI complete v possible addition ProviderMethodBinding feature also change change interface method BindingTargetVisitor take SetInjectionPoint replaces HasInjections interface Also make ProviderMethods class nonpublic Also add extra check serialization still get fix serialization TypeLiteral dfabbbdaecade
+style stuff use n line separator always unify use log placeholder fix unit test clean file MAHOUT remove dead code redundancy etc
+Fixed problem different unit lattice spacing general tetragonal lattice lattice unit factor Gauss constraint really make sense combine spatial component electric field carry different lattice unit factor correct Gauss constraint calculation express physical unit turn effect unit use current charge density also give physical unit really satisfactory solution think little bit
+Remove dead code method visitor method helper
+Add cellarobr feature install itest fbbffaedef
+Remove duplicate code new metric code
+Bug Compatibility IWorkbenchWindows openPageString IAdaptable implement correctly
+add additional constructor AbstractCassandraUnitTestCase constructor simply pass args CassandraUnit specify configurationFile host want use subclass AbstractCassandraUnitTestCase allow functionality whether use CassandraUnit Rule subclassing AbstractCassandraUnitTestCase
+create sketch type handle remove unnecessary abstraction reuse declare type
+Added miss JavaDoc comment Fixed chat example work current browser Flash fallback Added miss functionality main class include respond Flash client policy file request WebSocketServer require Flash WebSocket implementation
+Massively improved efficiency performance Criteria folder handling
+improve mysql sql parser performance
+BO Branch Overhaul Added class WeightedBranchFunction extend BranchFunction Weighted Branches spawn branch dependent chance associate branch list function Added class BranchNode three List object IntegerCustomObjectandRotation Branch reduce one List object BranchNode BranchNode hold single CustomObject Rotation Integer weight normal branch allow double value branch chance Extended Branch functionality instead static chance per branch may configure value wish append value end function like BranchbranchZ NORTH branchZ would chance spawn
+wcetfrontend Improve handle deadstuck code due exception Fix handle exception exception edge currently add control flow graph Fix bug graphutilsdominator
+Feature Introduced ModuleValidation follow constraint AvoidDotAndJarOnBundleCPConstraint Checks bundle contain JARs unjared class EclipseBundleShapeConstraint Checks bundle require unpacked contain manifest header EclipseBundleShape dir ProjectEncodingConstraint Checks build encode projectbuildsourceEncoding equal eclipse project encode encodingproject
+HBASE Remove duplicate code createmanage encryption key
+CAY Horizontal inheritance
+NEW bug RFC NPE distributing service discovery provider activate
+TEZ Rename new package back remove dead code old package mapreduce module part TEZ sseth
+duplicate code
+menu contain menu item precusor GUI add Hide frequent overlay option view menu add Outlier Handling option view menu change JMenuItems JRadioButtonMenuItems necessairy functionality add ActionListeners menu item still missning plus skeleton performer method
+WICKET extremely slow performance development mode WICKET PackageResourceReferencelookupStreamIResourceStreamLocator Locale String String create wrong PackageResourceReferenceStreamInfo
+FieldsetPanels option page size create AbstractListForm
+inheritance namespace declaration nest bundle
+remove PerformanceStats since move loopbased event base system Fixed mob fall floor npc Fix hp bug Cleaned legacy movement handle move session system
+Merge change PullRequest Fix aggregation generation cleanup dead code Update dependency version
+bug minor feature cbabbde
+Refactored command line argument configuration file handle Improved refactored Configuration class Added extensive unit test Configuration class Tried reduce tight couple Main Configuration class address issue SERVER SERVER
+introduction vehicle container LIST multilane traffic quick hack initial condition spatiotemporal output compatible onelane feature
+Bug region performance issue large number service listener service event
+cleanup move data class new package
+added LogicOperation MathOperation generalize functionality respect class type Went finaled variable argument Added test case error truefalse ANDOR operation
+Add ThreadLocal cache proxy improve performance
+Reduce size feature list request URL
+Rename new package back remove dead code old package mapreduce module tezengine module part TEZ sseth
+Factored center functionality showFrameCentered function
+Refactored make RestService protect move functionality LeanEntity
+Major Fiction script parse still dead code trim fiction parser configuration vocabulary load file still need process expression verb message receive
+Bug deadlock class load deploy startup Ifaaddadabbdeab Thomas Watson tjwatsonusibmcom
+Tools develop multiresolution signal processing use available filter classesfunctions Filter class expand minor additional functionality
+Added New Experiment Profile Types Modified COMPOUND efo term Updated Experiment Setup Screen Updated experiment design functionality mapping attribute
+delete class whose functionality replace class deal CBS tool move remain class orgarachnanetweavertoolsdc package fix checkstyle warning wrt serial warning fix JavaDoc
+major rule datatype overhaul completely rewrote internals rule make easy use Chris Dyers dotteditem extraction scheme Also idea profile think take less space rewrite Also hell easy understand Also change feature function reflect since look rule internals Also make first attempt write extraction logic
+GlobalTypeInfo data class separate pas
+Cleans HtmlApiFilter reduce duplicate code
+Add SessionComponent good compatibility old release XmppConnection well documentetation Better release name Release Candidate
+CAY Horizontal inheritance
+change performance testcase add proxooltomcatjdbc
+Remove duplicate code make hierarchy Indy Basic interpreting visitor
+Adding notion graph composition series GAVsets optionally pair filter combine calculation optionally like add subtract intersectionthen allow RepositoryOps recipe use complex recipe Also add preset factory aproxdepgraph integration cartographer use embed mode want
+Keep track topmost rank remove unused abstraction
+chorengine change ManualActivation rule reduce cyclomatic complexity
+Bug API builder performance bad incremental build
+Extract duplicate code method
+WAL max size limit restore Free space detection bug fix Additional improvement
+New test fix inheritance injection
+Java source compatibility update
+Integrate Statistics modules trunk large refactoring Clean API split StatisticsAPI module new DesktopStatistics TopComponent desktop UI controller model locate Build MVC architecture support workspace encapsulation adapt Panels code support asynchronous modelbased refresh Reimplement Panels well layout Adapt StatisticsStandard new API delete frontends migrate use current Graph API access Increase consistency Statistics setting panel
+cleanup Encapsulation class
+Introduce environment variable control page size nitro request
+New HTML report aggregate chart data CSV file way retrieve data SimpleStatistics Fixed bug HistogramStatistics Table Removed unused code ChartGen AbstractChartGen PutGetChartGenerator chartsh reportsh generate whole report single chart
+Remove duplicate code
+PMD RuleExcessiveMethodLength Priority Avoid really long method Issue
+Sonar fix Doc Fixes Resolution Issue Fixing Javadoc Errors SonarQube Fix Performance Method invoke inefficient Number constructor use static valueOf instead SonarQube Security Array store directly Fixing null pointer issue new clone method Issue Fixing Topic match sport sport James Sutton jamessuttonukibmcom
+enh assign statement show relevant LHS RHS expression Outline view enh Change contentassist proposal namemapped moduleinstance parameter moduleport proposal include parens prompt user specify connect net enh Add SVEDITOR builtin preprocessor directive use disable processing code SVEditor parser currently support nobug Corrected bug case type declare local file edit searched contentassist operation enh Add contentassist support taskfunction namemapped parameter enh Add contentassist support namemapped module interface class parameter
+Change WorldConfigbiomeConfigs HashMap simple array well performance Forge version need testes Fix wrong method name forgeTCWorldChunkManager
+reorganize test class separate expensive syntaxparsing test functionality test fix Rascal JUnit runner test reporting remove dead code
+Add Hive schema info generator onMapReduce compiler enable feature add comasakusafwasakusahiveplugin artifact onMapReduce compiler dependency feature generate schema information file onto etchiveschemainoutoutputjson batchapp output
+fix Nearcache eviction run cache size max size first run
+PAXRUNNER Reimplement feature scanner use smx internals bacaeabcdabd
+fix inheritance recursion
+ASSIGNED bug ThirdParty Tool Extensions handle correctly modify package structure order represent plugin name
+Renamed TrafficCompositionInputData VehicleTypeInput closely correspond XML element name
+Enhanced tool palette composition functionality Added Morph ActivityGateway feature
+Fixes bug
+InternalLockService Extracted Classes depend final impl class create tight couple make test hard
+Finishing HiLite functionality Registering HiLiteListener HeatMapViewerNodeView initialization HiLites register moment view instantiation Migrating HiLiteListener interface implementation ScreenViewer HeatMapModel Adding INPORT field HeatMapViewerNodeModel use get HiLiteHandler der HeatMapModel HiLiteMenu Propagating HiLiteHandler PlateViewer HeatMapViewer windows synchronize
+Added size attribute fsdeepfs fsdir fsfile element human readable size value fsfsSize element
+JSON import support ignore empty field Add new feature fromjson conversion record ability ignore field contain empty value add fieldstodelete belong root record Furthermore empty list empty nest record ignore course optional import cli activate CLI option API use subclass default RecordReader feature useful JSON import file generate tool case much simpler tool fix json structure replace placeholder rather adjust json structure add json prop depend whether field value add fieldstodelete entry record quite refactoring RecordReader make possible allows much customisations deserialization already exist LinkTransformer specific case JsonImport replace wildgrowing number load method ImportSettings object pre method keep compatibility Properties native type json like number booleans also define string useful combination ignoreemptyfields option since empty number boolean
+Changes base Keiths review tweaks EdgeSet help track edge removal modify srceduuclasspacecommonSimilarityjava Updated use VectorMathdotProduct Tanimoto coefficient delete srceduuclasspacecommonWordComparatorjava Moved SimpleNearestNeighborFinder modify srceduuclasspacedependencySimpleDependencyPathjava Removed println modify srceduuclasspacegraphAbstractGraphjava Added miss implementation Subgraph class unit test pass modify srceduuclasspacegraphDirectedMultigraphjava Added miss implementation Subgraph class unit test pass Fixed bug reporting correct edge type removal Removed dead code modify srceduuclasspacegraphEdgeSetjava Updated disconnect return number edge remove modified srceduuclasspacegraphGenericEdgeSetjava modify srceduuclasspacegraphSparseDirectedEdgeSetjava modify srceduuclasspacegraphSparseDirectedTypedEdgeSetjava modify srceduuclasspacegraphSparseTypedEdgeSetjava modify srceduuclasspacegraphSparseUndirectedEdgeSetjava modify srceduuclasspacegraphSparseWeightedEdgeSetjava Updated support EdgeSet interface change delete srceduuclasspacegraphGraphRandomizerjava Removed dead class functionality Graphsjava modify srceduuclasspacegraphSimpleWeightedEdgejava Fixed hashCode delete srceduuclasspacegraphSparseSymmetricEdgeSetjava Removed dead class modify srceduuclasspacegraphUndirectedMultigraphjava Added miss implementation Subgraph class unit test pass Fixed bug reporting correct edge type removal Removed dead code modify srceduuclasspacemainsFixedDurationTemporalRandomIndexingMainjava Updated replace WordComparator SimpleNearestNeighborFinder modify srceduuclasspacemainsLexSubWordsiMainjava Updated replace WordComparator SimpleNearestNeighborFinder modify srceduuclasspacetextLabeledParsedStringDocumentjava Updated new ParsedDocument interface modify srceduuclasspacetextParsedDocumentjava Updated specify format text tokens white space delimiters Added new prettyPrintText attempt nicely format token would originally modify srceduuclasspacetextPukWaCDocumentIteratorjava Fixed javadoc modify srceduuclasspacetextUkWaCDocumentIteratorjava Added class javadoc modify srceduuclasspacetoolsNearestNeighborFinderTooljava Updated use class instance instead interface modified srceduuclasspacetoolsSemanticSpaceExplorerjava Updated replace WordComparator PartitioningNearestNeighborFinder modify srceduuclasspacetoolsSimilarityListGeneratorjava Updated replace WordComparator PartitioningNearestNeighborFinder modify srceduuclasspaceutilHashIndexerjava Fixed javadoc modify srceduuclasspaceutilPairCounterjava Fixed javadoc rename srceduuclasspaceutilNearestNeighborFinderjava srceduuclasspaceutilPartitioningNearestNeighborFinderjava Moved NearestNeighborFinder interface modify srceduuclasspaceutilReflectionUtiljava Removed dead code modify srceduuclasspaceutilprimitiveIntIntHashMultiMapjava Added javadoc modify srceduuclasspaceutilprimitiveIntIntMultiMapjava Added javadoc modify testeduuclasspacegraphDirectedMultigraphTestsjava Uncommented unit test modify testeduuclasspacedependencyBreadthFirstPathIteratorTestjava modify testeduuclasspacedependencyCoNLLDependencyExtractorTestjava modify testeduuclasspacedependencyWaCKyDependencyExtractorTestjava modify testeduuclasspacetextcorporaPukWacDependencyCorpusReaderTestjava modify testeduuclasspacewordsiDependencyContextExtractorTestjava modify testeduuclasspacewordsiOccurrenceDependencyContextGeneratorTestjava modify testeduuclasspacewordsiOrderingDependencyContextGeneratorTestjava modify testeduuclasspacewordsiPartOfSpeechDependencyContextGeneratorTestjava modify testeduuclasspacewordsipsdPseudoWordDependencyContextExtractorTestjava modify testeduuclasspacewordsisemevalSemEvalDependencyContextExtractorTestjava Fixed unit test support proper tabdelimiting CoNLL format
+NIO Reads write complete caller would compatible old interface functionality connection instance object receive data message multiple OPREAD event
+Bugfix MultipleCDockable store child another MultipleCDockable store load layout fail reason feature DockFrontendaddDockable layout new Dockable updated old layout store frontend case MultipleCDockable old layout store missing time layoutfile read solution careful apply old layout load new layout time
+SUREFIRE Adding parameter failIfNoSpecifiedTests separate Dtest specify test include included every execution test mojo automatically Dtest class already include via include execution run execution DfailIfNoSpecifiedTeststrue specify test available particular execution plugin build fail use Dtest plugin check value set DfailIfNoSpecifiedTests DfailIfNoTests default fail specify test present particular execution Still need integration test feature may need careful examination happen Dtest use test class normally include single execution fbbffaedef
+New feature Integration Jangaroo property compiler property pattern EXML compiler generate class another format property file version update gitp depotpaths coremediajangaroo change
+BUg Disable test test functionality implement yet
+Updated Preferences class use simple property file rather Java build Preferences functionality like structure config file property file easy understand manually edit code look simpler well
+EMBRYO EMBRYO EMBRYO EMBRYO cleanup dead code
+Additional functionality ddebddfefcacdf
+Plugins jar directory efficiency sake make Plugins convert jar jsf jsfui jstweb jstwebui jstwebtiles jstwebtilesui jstjsp commonprojecttemplates
+change CreatedResources Map index key make lookup easy base creatable definition include updates test sample affect tested passing cleanup affect sample well efficiency simplicity cod pattern simplification CreatedResourcesImpl
+Added include functionality Joran include pattern use configuration pattern path attribute path file parse executed configure logback attribute set property
+Add option allow self sign certificate change impact database sync feature use HTTPS location database share location host database share use selfsigned certificate necessary generate new keystore host certificate copy keystore JRE libsecurity dir change option introduce simply trust host even invalid X certificate
+Improved ProjectMetadata class
+ROO Method name convention provide Json addon need adjust take inheritance relationship account
+Rewrite configuration system commit refactors almost configuration section make friendly development addition file save without comment fix Emphasis put retain backwards compatibility actual configuration option flatfile stay Minor change automatically upgrade
+Refactored use annotation instead inheritance
+Performance optimization annotation processinghandling
+EXML night feature creep declare component also plugins layout grid column type class eg action EXML Instead exmlcomponent use follow new EXML root node exmlplugin ptype exmllayout type exmlgridColumn gctype exmlclass anything else
+remove derive value db query instead derive value store database datafile project entities detection data range detection count bound box set follow data file uploads update response datafile deletion take account detection delete data cleanse feature remove field query information require may lead degraded performance particularly front page query detection date bounding box project however fix issue later material
+releng Make use Tycho POMless functionality
+Remove duplicate code heterogeneity minor fix
+Enhanced WKTShapeParser extensibility
+New feature branch allow custom listener create ERXStatisticsStore listener use notify external monitoring system eg StatsDGraphite request handling slow
+Feature Support per project pom templates projectpomxml file locate project folder merge generate pomxml file
+Google App Engine compatibility plugin jar
+make zoom functionality use plantumljar code smooth add image zooming mouse ctrlmouse wheel add image scrolling mouse mouse wheel add image drag mouse change toolwindow background color white copytoclipboard action use current zoom
+Introduce Writeback reduce duplicate code
+add support Lucene index configuration directory mmap f analyzer stopwords size buffer
+Added functionality handle InputStreams useful loading JarEntries
+add blob class relative cluster management method
+Added person connection abstraction
+Bug Support manifest inheritance global property Cloud Foundry Deployment
+SONARDOTNT Replace complexity distribution class file
+Put duplicate code UTIL class
+Made functional test run bucket size feature Close since run functional test mean feature do
+Renamed performance test Introduced AbstractModule support concise configuration code
+FINALLY decouple gwt amf rest xfire module springapp module rearchitected loosen module dependency tree streamline configuration spring support remove unneeded complexity springapp split module servlet
+change size averageCaseEstimate PET use isTopLevel instead feature bad case estimate editable featurestory editor
+Applied patch bug Adds provisional socket event API orgeclipseecffiletransfer plus implementation orgeclipseecfproviderfiletransfer oeeproviderfiletransfer Also add support rapid cancellation browse restructure add test Also require change EE orgeclipseecfproviderfiletransfer CDC Foundation JRE
+Fixed problem Axis reusability priority include UML diagram
+oprofileperf Remove dead code
+update add additional functionality dfrsyn partial fulfillment dfr Given existence directory tmpdfrtest several file locally run duracloud instance adminapw credential file upload active queue status info report
+Got delombok work JDK PrettyCommentsPrinter able print new feature like JCTypeUnion first test indicate besides work fine
+Dheeru Refactored good readability fix minor bug container update breaking forloop case unmapping
+chore improve GC performance CoreShader Replace use prefixargument concatenation CoreShader CoreLogger andor CoreGLcheckGLError call CoreLogger optimization Add setLoggingPrefixgetLoggingPrefix method automate preset line prefix logger instance Reduce varargs pollution making use varargs method conditional varargs log method well checkGLError message overload nonvarargs method runtimeintensive code like setUniform method CoreShader need use argument processing log message directly instead significantly reduce varargs pollution eliminate needless creation empty Object object JVM make simple checkGLError log call CoreGLCoreLogger Update CoreGL implementation support overload checkGLError method varargs See related discussion issue
+BATCHADM Improve chunk traceability add sequence info chunk Improve log ChunkMessageChannelItemWriter Add mysqlhderby property integration project Add drop script necessary persistent database
+change render routine text field add tabbing ability CustomScreen various modification CustomScreen match new TextField requirement change size PacketSky
+Changed throw exception close method Connection class Also change test rely java autoClosable feature
+Cleaned duplicate code preparation make plugin dir configurable
+new test add functionality detection error related event observer
+WAGON reuse http connection ASF provider add programmatic access feature tru sys prop fbbffaedef
+Fixed bug fully improve Poisson solver orientation work Accuracy comparable improve version fully improve version suffer loss accuracy small time step
+ElasticSearch Transaction rename DocStoreMode batch size method
+Implements Editors functionality single ok infinite editor partially First shot serialisation MapContext GUI map automatically save map editor
+Fixed bug introduce SiteMesh PagegetRequest throw UnsupportedOperationException old feature rarely use unfortunately example web app use cause fail Fixed functionality add appropriate test test suite
+Advanced filter functionality Biomart import module bfaebddf
+Working test map street test various feature code dfeeadfeeeb
+duplicate code
+finalize functionality test
+MongoStore avoid long method
+Added Transactional service Added repeateble stimulus addScenarioForm test Added functionality Group set default checkbox Added functionality Private experiment checkbox Error message validator property file
+Improve EJBUtils performance abstract unit test improvement WS injection inherit SafeOnline fix cleanup
+Brought ComponentProvider functionality date current functionality ComponentProviders use currently add new menu functionality client
+JENKINS Configurable stapler serialization behavior JENKINS Configurable stapler serialization behavior Incorporated Jesse feedback PR Reverted unnecessary edit Revert ExportedConfig change address compatibility concern Incorporated Kohsukes comment Fix javadoc ExportInterceptor work ExportConfig use skipIfFail flag ExportInterceptor constat SkipTrue use skip write property Use constnat object represent SKIP
+SOC Avatar Native english usability review
+initial attempt abstraction druid cluster work Derby default
+Removed dead code need page name reason loop around stuff find Cleaned javadocs bit
+Allow configure retry condition Retry annotation use configure optional condition closure evaluate feature fail determine whether retried Resolves
+SnakeSettingsPanel update cooler ui layout slightly buggy atm functionality Work progress
+solr component work remove dead code
+Better encapsulation inspire AbstractCRPDBTestconfigureEntities configuration entity mixed db configuration
+fix set appropriate converter per profile attribute fix set appropriate converter per profile attribute Compatible previous configuration update doc Add Features Set appropriate converter per profile attribute Add attention information
+change jBPM Append Node feature align tool palette Fixed oversight DataAssociationDetailComposite Check availability connection create feature
+discovery use new Pinger remove bunch pointlessdead code thread yay
+Created ResourceFrame class give base functionality resource edit frame Modified ScriptFrame extend ResourceFrame Fully Functional Created FontFrame edit font Fully functional font preview Created IntegerEdit check value edit Added NONNLS tag Made GameInfo Game Settings frame get recreate every time new file create Made GameInfo Game Settings set frame icon Game Settings show Last Changed date string Added static GM date function GmFile GmFile set LastChanged instantiation Added instance tile defragging Changed readTree take GmFile src argument future ability merge game easily Also Resource name ignore tree data take Resource Made Listener open script font node double click make frame update name edit tree Added openFrame updateFrame method ResNode Resources completely remove file delete LGM explicitly set look Feel startup test LAFs Made Resources set name relevant prefix creation ResourceList add LastId name string add call ffbcebecd
+add replace feature AddChanges fbbffaedef
+Removed responsibility getExportExtension abstraction service layer
+added directory popup feature bafdacfced
+Make new helper method testGetEpisodeDataTitle pull functionality loop testGetEpisodeTitle make separate method Add javadoc Use ignore whitespace diffs properly see limited extent change commit
+Fix two bug report Dogacan Guney fbbffaedef
+fix serializationdeserialization sparse v normal minor performance enhancement unsigned int comparator reduce max size sparse array
+Fix performance regresssion introduce use InetSocketAddress getHostName Patch provide Scott Harrington improve upon Kris Jurka
+Abnormal execution result script null characterx Fixed bug trim null character save script consider handle compile script fix solution already include null character script
+feat improve wait notification provide timeout option Improves wait notification add timeout PGConnectiongetNotifications method change effect user use functionality API remain fully backwards compatible
+Issue Adds support detect multiple barcodes simplifies ResultPoint abstraction
