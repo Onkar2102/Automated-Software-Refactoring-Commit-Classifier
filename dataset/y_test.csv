@@ -1,123 +1,117 @@
 category
-internal
-bugfix
 external
-functional
-functional
-bugfix
 internal
-code smell
+internal
+functional
 internal
 code smell
+external
+external
+external
+functional
 bugfix
-code smell
 bugfix
 bugfix
-internal
-functional
-internal
+bugfix
 internal
-code smell
 external
 code smell
+external
 code smell
 internal
-bugfix
 external
+bugfix
 code smell
-functional
 code smell
 internal
-bugfix
-bugfix
-code smell
-external
 external
 external
 bugfix
-external
-bugfix
-internal
-code smell
 functional
-functional
-code smell
+bugfix
 code smell
 functional
 external
-functional
 bugfix
 code smell
+functional
+internal
 external
 external
+functional
+code smell
+bugfix
 external
 bugfix
+code smell
 external
-functional
+external
+internal
 internal
+bugfix
 external
 external
+code smell
 bugfix
 functional
+functional
 code smell
-external
+code smell
+code smell
 bugfix
-internal
-functional
 bugfix
+internal
 bugfix
 bugfix
-functional
+external
 internal
-functional
 external
+internal
 bugfix
-functional
-code smell
-functional
 internal
+external
 bugfix
 external
-internal
+bugfix
 functional
+functional
+code smell
 bugfix
 bugfix
+external
 internal
 internal
-bugfix
-external
+internal
+internal
+functional
 external
 code smell
-functional
+bugfix
 internal
-code smell
+internal
 bugfix
 internal
 code smell
-bugfix
-external
-external
-external
+code smell
 internal
 bugfix
 code smell
-functional
 internal
-external
+functional
+code smell
 bugfix
-external
 external
+functional
 bugfix
-internal
-code smell
 internal
+external
+functional
 internal
 code smell
-external
 functional
 internal
+internal
 bugfix
-functional
 functional
 functional
 functional
@@ -126,70 +120,72 @@ internal
 external
 functional
 code smell
-code smell
+external
+internal
 external
+functional
+bugfix
+functional
 bugfix
 external
+code smell
 functional
-internal
 code smell
 internal
-external
-internal
-external
 functional
+functional
+code smell
+functional
 bugfix
-internal
+functional
 code smell
 functional
 bugfix
 internal
 external
 external
-internal
+functional
 code smell
 code smell
 external
 functional
 code smell
-internal
+functional
 external
 bugfix
 bugfix
-functional
+external
 bugfix
-internal
 external
 internal
-code smell
+internal
 external
 bugfix
 code smell
 bugfix
 external
 code smell
-external
+functional
 internal
 external
 bugfix
-internal
 external
 bugfix
 code smell
-functional
 internal
-functional
 internal
-code smell
+external
 internal
 code smell
 internal
-functional
 code smell
 external
-functional
+external
+code smell
 external
 internal
+functional
+functional
 code smell
 bugfix
 functional
@@ -202,7 +198,7 @@ bugfix
 internal
 code smell
 bugfix
-code smell
+external
 bugfix
 external
 bugfix
@@ -210,14 +206,14 @@ code smell
 code smell
 code smell
 code smell
-internal
-external
+functional
+functional
 code smell
 code smell
 external
-external
-bugfix
 functional
+bugfix
+internal
 functional
 internal
 internal
@@ -229,7 +225,7 @@ bugfix
 external
 bugfix
 bugfix
-functional
+external
 external
 code smell
 bugfix
@@ -248,28 +244,29 @@ code smell
 external
 functional
 external
-bugfix
-internal
 functional
 internal
 internal
 internal
 internal
+internal
+internal
 code smell
+bugfix
+internal
 external
 functional
-internal
-internal
 internal
 internal
+functional
+functional
 internal
 external
 code smell
 functional
 external
-functional
-functional
-functional
+internal
+internal
 bugfix
 code smell
 code smell
@@ -293,11 +290,10 @@ external
 code smell
 external
 external
-functional
 code smell
 bugfix
 functional
-external
+internal
 bugfix
 external
 code smell
@@ -307,7 +303,7 @@ functional
 internal
 external
 code smell
-functional
+internal
 code smell
 functional
 external
@@ -345,7 +341,6 @@ bugfix
 external
 bugfix
 functional
-internal
 functional
 bugfix
 bugfix
@@ -362,13 +357,13 @@ internal
 bugfix
 bugfix
 functional
-bugfix
+internal
 functional
 code smell
 bugfix
 bugfix
-external
 external
+functional
 code smell
 internal
 bugfix
@@ -385,7 +380,7 @@ internal
 external
 functional
 external
-code smell
+internal
 code smell
 functional
 internal
@@ -397,7 +392,6 @@ code smell
 functional
 code smell
 internal
-internal
 code smell
 internal
 code smell
@@ -423,5 +417,10 @@ functional
 internal
 bugfix
 functional
+bugfix
+code smell
 bugfix
+external
+functional
+code smell
 code smell
